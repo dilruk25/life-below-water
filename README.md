@@ -1,4 +1,4 @@
-# life-below-water
+# Life Below Water
 🌊 A collaborative website project for UN Sustainable Development Goal 17: Life Below Water, 
 developed by CS Part-Time Group J using HTML, CSS, and JavaScript. 
 
